@@ -1,0 +1,14 @@
+.fondoNav{
+    background-color: rgb(57, 57, 116);
+}
+
+.nav{
+    
+    display: flex
+   
+}
+
+
+.conteiner{
+    float: left;
+}
